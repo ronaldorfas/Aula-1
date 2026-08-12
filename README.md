@@ -164,7 +164,7 @@ A primeira atividade consiste na criação de um projeto utilizando **Vanilla Ja
 
 > 📌 **Cole abaixo o link da atividade:**
 
-### 👉 [🚀 ACESSAR ATIVIDADE 01](COLE_AQUI_O_LINK_DA_ATIVIDADE_01)
+### 👉 [🚀 ACESSAR ATIVIDADE 01]([COLE_AQUI_O_LINK_DA_ATIVIDADE_01](https://github.com/ronaldorfas/Projeto-Vanilla-JS))
 
 ---
 

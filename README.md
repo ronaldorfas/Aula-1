@@ -339,7 +339,7 @@ Além disso, foram apresentados:
 
 | 🔗 Recurso                | Link                                        |
 | ------------------------- | ------------------------------------------- |
-| 🧪 **Atividade 01**       | [Acessar](COLE_AQUI_O_LINK_DA_ATIVIDADE_01) |
+| 🧪 **Atividade 01**       | [Acessar](projeto-vanilla-js.vercel.app) |
 | 📂 **Repositório GitHub** | [Acessar](COLE_AQUI_O_LINK_DO_REPOSITORIO)  |
 
 ---
